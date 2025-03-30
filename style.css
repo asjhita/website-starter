@@ -2,6 +2,12 @@ body, html {
     background-color: whitesmoke;
     font-family: Poppins;
 }
+h1{
+    text-align: center;
+}
+p{
+    text-align: center;
+}
 
 /*
     Other CSS rulesets
